@@ -1,0 +1,14 @@
+cfg/cfg/
+*.o
+asp
+asp.srec
+asp.syms
+cfg1_out
+cfg1_out.c
+cfg1_out.srec
+cfg1_out.syms
+kernel_cfg.h
+kernel_cfg.c
+kernel_cfg.timestamp
+libkernel.a
+offset.h
