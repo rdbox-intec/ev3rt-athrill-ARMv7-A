@@ -12,3 +12,4 @@ kernel_cfg.c
 kernel_cfg.timestamp
 libkernel.a
 offset.h
+.vscode
